@@ -1,0 +1,25 @@
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin: 0; padding: 0; border: 0; outline: none;}
+body {	font-family: "宋体";font-size: 12px;color:#000000;line-height: 20px;text-align:left;}
+td,th {font-family: "宋体";font-size: 12px;color: #000000;}
+a {color: #000000;} 
+A:link {TEXT-DECORATION: none;}
+A:visited {TEXT-DECORATION: none;}
+ul,li{list-style-type:none;}
+.clearit{clear:both;}
+
+
+.da {width:1000px; margin:0 auto; background:#eceef1}
+.ban { width:1000px; height:339px;}
+.nav {width:1000px; height:50px; background:#9e0000;}
+.nav li {width:166.66px; float:left; text-align:center; line-height:50px;}
+.nav li a {font-size:16px; color:#FFF; font-weight:bold; width:166.66px; height:50px; display:block}
+.nav li A:hover { background:#bd1515;}
+.xia {width:960px; padding:20px;}
+.xia h2 {width:150px; height:35px; border:1px solid #FFF; background:#bd1515;border-radius:35px; text-align:center; line-height:35px; color:#FFF}
+.yi {margin-top:20px;}
+.yi p{line-height:30px; text-indent:2em;}
+.si {width:960px; margin-top:20px; margin-bottom:20px; border-bottom:2px solid#9e0000;}
+.er li { width:293px; float:left; margin-top:20px; margin-left:20px; text-align:center; line-height:30px;}
+.foot {width:1000px; height:60px; background:#9e0000; text-align:center; line-height:60px; font-size:16px; color:#FFF; font-weight:bold;}
